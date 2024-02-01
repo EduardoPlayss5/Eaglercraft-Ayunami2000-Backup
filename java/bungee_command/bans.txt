@@ -40,11 +40,17 @@ replace-bukkit=true
 
 # *fuck*
 # nigg*
+# disgrac*
+# as*
+# ho*
+# motherfucke*
 
 
 [Regex]
 
 # you.+are.(a|the).+bitch
+# ^idiot$
+# .*insult.*
 
 
 # end of file
